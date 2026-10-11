@@ -1,27 +1,27 @@
 {
-  "total_items": 833,
+  "total_items": 791,
   "per_category": {
-    "paintings": 133,
+    "paintings": 95,
     "plants": 148,
     "posters": 369,
-    "sculptures": 75,
-    "wall_decorations": 108
+    "sculptures": 76,
+    "wall_decorations": 103
   },
   "per_vendor": {
-    "Abstract House": 78,
+    "Abstract House": 40,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 15,
+    "Beards & Daisies": 18,
     "Conservatory Archives": 40,
     "House Plant": 37,
-    "Leaf Envy": 56,
+    "Leaf Envy": 53,
     "Drool Art": 75,
     "Jealous Gallery": 40,
     "The Poster Club": 105,
     "Project Nord": 75,
     "PSTR Studio": 74,
     "Jonathan Adler UK": 37,
-    "Rockett St George": 81,
+    "Rockett St George": 77,
     "Nkuku": 10
   },
   "thin_categories": [],
@@ -44,17 +44,52 @@
     },
     {
       "source": "rockett-st-george",
+      "title": "The Curiosity Shop Stripe Wallpaper in Blush",
+      "reason": "excluded by keyword 'wallpaper'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "The Perfect Match Wallpaper in Golden Hour",
+      "reason": "excluded by keyword 'wallpaper'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "The Cha Cha Cha Wallpaper in Watermelon Blush",
+      "reason": "excluded by keyword 'wallpaper'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "The Wild At Heart Wallpaper in Pink",
+      "reason": "excluded by keyword 'wallpaper'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "The Kiss Me Lipstick Wallpaper",
+      "reason": "excluded by keyword 'wallpaper'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "The Wham Bamboo Wallpaper in Golden Hour Noir",
+      "reason": "excluded by keyword 'wallpaper'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "The Palm Paradiso Mural Wallpaper in Coral",
+      "reason": "excluded by keyword 'wallpaper'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "The Midnight Palms Wallpaper in Noir",
+      "reason": "excluded by keyword 'wallpaper'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "The Sacred Hearts Wallpaper in Ivory Red",
+      "reason": "excluded by keyword 'wallpaper'"
+    },
+    {
+      "source": "rockett-st-george",
       "title": "Gold Star Candle Wall Sconce",
-      "reason": "excluded by keyword 'candle'"
-    },
-    {
-      "source": "rockett-st-george",
-      "title": "Gold & Foxed Mirror Floral Candle Wall Sconce",
-      "reason": "excluded by keyword 'candle'"
-    },
-    {
-      "source": "rockett-st-george",
-      "title": "Gold Milagro Heart Candlestick Wall Sconce",
       "reason": "excluded by keyword 'candle'"
     },
     {
@@ -89,6 +124,16 @@
     },
     {
       "source": "beards-daisies",
+      "title": "A Very Festive Forest Artificial Wreath",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "A Very Scandi Christmas Artificial Wreath",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
       "title": "A Year of Houseplants Bundle",
       "reason": "excluded by keyword 'bundle'"
     },
@@ -101,6 +146,31 @@
       "source": "beards-daisies",
       "title": "Air Purifying Pair",
       "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial 2ft Norton Tree",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial 3ft Norfolk Pine with Cones",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial 4ft Hemlock Tree",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial 5ft Hemlock Tree",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial 5ft Sherwood Tree",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
       "source": "beards-daisies",
@@ -200,56 +270,6 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Bestseller Pair",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Bird of Paradise",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Bird of Paradise (Flowering)",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Blue Lavender & Pot",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Blue Star Fern",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Boston Fern",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Boston Fern",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Boxwood Hanging",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Burgundy Orchid & pot",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Caladium",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Calathea Bush",
       "reason": "excluded by keyword 'artificial'"
     },
     {
