@@ -1,0 +1,297 @@
+{
+  "total_items": 833,
+  "per_category": {
+    "paintings": 133,
+    "plants": 148,
+    "posters": 369,
+    "sculptures": 75,
+    "wall_decorations": 108
+  },
+  "per_vendor": {
+    "Abstract House": 78,
+    "Olivia's": 50,
+    "Partnership Editions": 60,
+    "Beards & Daisies": 15,
+    "Conservatory Archives": 40,
+    "House Plant": 37,
+    "Leaf Envy": 56,
+    "Drool Art": 75,
+    "Jealous Gallery": 40,
+    "The Poster Club": 105,
+    "Project Nord": 75,
+    "PSTR Studio": 74,
+    "Jonathan Adler UK": 37,
+    "Rockett St George": 81,
+    "Nkuku": 10
+  },
+  "thin_categories": [],
+  "missing_vendors": [],
+  "dropped_at_normalize": [
+    {
+      "source": "pstr-studio",
+      "title": "Art Gift Card",
+      "reason": "excluded by keyword 'gift card'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Gold Bird Legs Tabletop Mirror",
+      "reason": "excluded by keyword 'table'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Gold Milagro Heart Tabletop Mirror",
+      "reason": "excluded by keyword 'table'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Gold Star Candle Wall Sconce",
+      "reason": "excluded by keyword 'candle'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Gold & Foxed Mirror Floral Candle Wall Sconce",
+      "reason": "excluded by keyword 'candle'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Gold Milagro Heart Candlestick Wall Sconce",
+      "reason": "excluded by keyword 'candle'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Fabulous Antique Gold Whale Ornament/Ashtray",
+      "reason": "excluded by keyword 'tray'"
+    },
+    {
+      "source": "jonathan-adler",
+      "title": "Acrylic Hand Bowl",
+      "reason": "excluded by keyword 'bowl'"
+    },
+    {
+      "source": "jonathan-adler",
+      "title": "Acrylic Bird Bowl",
+      "reason": "excluded by keyword 'bowl'"
+    },
+    {
+      "source": "leaf-envy",
+      "title": "Hard to Kill Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "3 Months of Houseplants Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "6 Months of Houseplants Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "A Year of Houseplants Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Air Purifying Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Air Purifying Pair",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial African Fig Tree",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Agave Plant",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Alocasia Colocasia",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Alocasia Polly",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Alocasia Zebrina",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Anthurium",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Anthurium",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Areca Palm (UV protected)",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Asparagus Hanging",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Azalea & Balcony Pot",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Azalea & Grey Pot",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bamboo",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bamboo Burgundy",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bamboo Hanging",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bamboo Palm",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Banana Tree",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Begonia",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Begonia Maculata",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bestseller Bundle",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bestseller Pair",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bird of Paradise",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bird of Paradise (Flowering)",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Blue Lavender & Pot",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Blue Star Fern",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Boston Fern",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Boston Fern",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Boxwood Hanging",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Burgundy Orchid & pot",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Caladium",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Calathea Bush",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "houseplant-co",
+      "title": "Swiss Cheese Plant",
+      "reason": "excluded by keyword 'plant pot'"
+    },
+    {
+      "source": "houseplant-co",
+      "title": "Prayer Plant | Lemon Lime | Rare Plant",
+      "reason": "excluded by keyword 'plant pot'"
+    },
+    {
+      "source": "houseplant-co",
+      "title": "ZZ Plant",
+      "reason": "excluded by keyword 'plant pot'"
+    },
+    {
+      "source": "houseplant-co",
+      "title": "Chinese Money Plant",
+      "reason": "excluded by keyword 'plant pot'"
+    },
+    {
+      "source": "houseplant-co",
+      "title": "Swiss Cheese Plant",
+      "reason": "excluded by keyword 'plant pot'"
+    },
+    {
+      "source": "houseplant-co",
+      "title": "Prayer Plant | Lemon Lime | Rare Plant",
+      "reason": "excluded by keyword 'plant pot'"
+    },
+    {
+      "source": "houseplant-co",
+      "title": "ZZ Plant",
+      "reason": "excluded by keyword 'plant pot'"
+    },
+    {
+      "source": "houseplant-co",
+      "title": "Chinese Money Plant",
+      "reason": "excluded by keyword 'plant pot'"
+    }
+  ],
+  "validation_failures": []
+}
