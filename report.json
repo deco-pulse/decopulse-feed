@@ -1,20 +1,21 @@
 {
-  "total_items": 790,
+  "total_items": 895,
   "per_category": {
-    "paintings": 95,
-    "plants": 147,
-    "posters": 369,
+    "paintings": 127,
+    "plants": 145,
+    "posters": 444,
     "sculptures": 76,
     "wall_decorations": 103
   },
   "per_vendor": {
-    "Abstract House": 40,
+    "Abstract House": 72,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 18,
+    "Beards & Daisies": 16,
     "Conservatory Archives": 40,
     "House Plant": 37,
     "Leaf Envy": 52,
+    "Andy okay": 75,
     "Drool Art": 75,
     "Jealous Gallery": 40,
     "The Poster Club": 105,
@@ -26,6 +27,7 @@
   },
   "thin_categories": [],
   "missing_vendors": [],
+  "empty_collections": [],
   "dropped_at_normalize": [
     {
       "source": "pstr-studio",
@@ -269,7 +271,17 @@
     },
     {
       "source": "beards-daisies",
-      "title": "Artificial Bestseller Pair",
+      "title": "Artificial Bird of Paradise",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bird of Paradise (Flowering)",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Blue Lavender & Pot",
       "reason": "excluded by keyword 'artificial'"
     },
     {
