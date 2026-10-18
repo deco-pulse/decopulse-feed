@@ -1,20 +1,20 @@
 {
-  "total_items": 895,
+  "total_items": 900,
   "per_category": {
-    "paintings": 127,
-    "plants": 145,
+    "paintings": 128,
+    "plants": 149,
     "posters": 444,
     "sculptures": 76,
     "wall_decorations": 103
   },
   "per_vendor": {
-    "Abstract House": 72,
+    "Abstract House": 73,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 16,
+    "Beards & Daisies": 19,
     "Conservatory Archives": 40,
     "House Plant": 37,
-    "Leaf Envy": 52,
+    "Leaf Envy": 53,
     "Andy okay": 75,
     "Drool Art": 75,
     "Jealous Gallery": 40,
@@ -61,7 +61,7 @@
     },
     {
       "source": "rockett-st-george",
-      "title": "The Wild At Heart Wallpaper in Pink",
+      "title": "The Wild At Heart Leopard Print Wallpaper in Pink",
       "reason": "excluded by keyword 'wallpaper'"
     },
     {
@@ -112,6 +112,11 @@
     {
       "source": "leaf-envy",
       "title": "Hard to Kill Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "leaf-envy",
+      "title": "Hard to Kill Tall Bundle",
       "reason": "excluded by keyword 'bundle'"
     },
     {
@@ -267,21 +272,6 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Bestseller Bundle",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Bird of Paradise",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Bird of Paradise (Flowering)",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Blue Lavender & Pot",
       "reason": "excluded by keyword 'artificial'"
     },
     {
