@@ -1,17 +1,17 @@
 {
-  "total_items": 900,
+  "total_items": 901,
   "per_category": {
     "paintings": 128,
-    "plants": 149,
+    "plants": 151,
     "posters": 444,
-    "sculptures": 76,
+    "sculptures": 75,
     "wall_decorations": 103
   },
   "per_vendor": {
     "Abstract House": 73,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 19,
+    "Beards & Daisies": 21,
     "Conservatory Archives": 40,
     "House Plant": 37,
     "Leaf Envy": 53,
@@ -21,7 +21,7 @@
     "The Poster Club": 105,
     "Project Nord": 75,
     "PSTR Studio": 74,
-    "Jonathan Adler UK": 37,
+    "Jonathan Adler UK": 36,
     "Rockett St George": 77,
     "Nkuku": 10
   },
@@ -102,11 +102,6 @@
     {
       "source": "jonathan-adler",
       "title": "Acrylic Hand Bowl",
-      "reason": "excluded by keyword 'bowl'"
-    },
-    {
-      "source": "jonathan-adler",
-      "title": "Acrylic Bird Bowl",
       "reason": "excluded by keyword 'bowl'"
     },
     {
@@ -201,11 +196,6 @@
     },
     {
       "source": "beards-daisies",
-      "title": "Artificial Alocasia Zebrina",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
       "title": "Artificial Anthurium",
       "reason": "excluded by keyword 'artificial'"
     },
@@ -267,11 +257,6 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Begonia Maculata",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Bestseller Bundle",
       "reason": "excluded by keyword 'artificial'"
     },
     {
