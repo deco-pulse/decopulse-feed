@@ -1,20 +1,20 @@
 {
-  "total_items": 901,
+  "total_items": 896,
   "per_category": {
     "paintings": 128,
-    "plants": 151,
+    "plants": 147,
     "posters": 444,
     "sculptures": 75,
-    "wall_decorations": 103
+    "wall_decorations": 102
   },
   "per_vendor": {
     "Abstract House": 73,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 21,
+    "Beards & Daisies": 18,
     "Conservatory Archives": 40,
     "House Plant": 37,
-    "Leaf Envy": 53,
+    "Leaf Envy": 52,
     "Andy okay": 75,
     "Drool Art": 75,
     "Jealous Gallery": 40,
@@ -22,7 +22,7 @@
     "Project Nord": 75,
     "PSTR Studio": 74,
     "Jonathan Adler UK": 36,
-    "Rockett St George": 77,
+    "Rockett St George": 76,
     "Nkuku": 10
   },
   "thin_categories": [],
@@ -96,6 +96,11 @@
     },
     {
       "source": "rockett-st-george",
+      "title": "Gold & Foxed Mirror Floral Candle Wall Sconce",
+      "reason": "excluded by keyword 'candle'"
+    },
+    {
+      "source": "rockett-st-george",
       "title": "Fabulous Antique Gold Whale Ornament/Ashtray",
       "reason": "excluded by keyword 'tray'"
     },
@@ -116,16 +121,6 @@
     },
     {
       "source": "beards-daisies",
-      "title": "3 Months of Houseplants Bundle",
-      "reason": "excluded by keyword 'bundle'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "6 Months of Houseplants Bundle",
-      "reason": "excluded by keyword 'bundle'"
-    },
-    {
-      "source": "beards-daisies",
       "title": "A Very Festive Forest Artificial Wreath",
       "reason": "excluded by keyword 'artificial'"
     },
@@ -133,11 +128,6 @@
       "source": "beards-daisies",
       "title": "A Very Scandi Christmas Artificial Wreath",
       "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "A Year of Houseplants Bundle",
-      "reason": "excluded by keyword 'bundle'"
     },
     {
       "source": "beards-daisies",
@@ -192,6 +182,16 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Alocasia Polly",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Alocasia Zebrina",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Aloe Vera",
       "reason": "excluded by keyword 'artificial'"
     },
     {
@@ -257,6 +257,26 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Begonia Maculata",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bestseller Bundle",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bird of Paradise",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bird of Paradise (Flowering)",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Blue Lavender & Pot",
       "reason": "excluded by keyword 'artificial'"
     },
     {
