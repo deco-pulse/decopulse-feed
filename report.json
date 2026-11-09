@@ -1,27 +1,27 @@
 {
-  "total_items": 896,
+  "total_items": 892,
   "per_category": {
     "paintings": 128,
-    "plants": 147,
+    "plants": 146,
     "posters": 444,
-    "sculptures": 75,
+    "sculptures": 72,
     "wall_decorations": 102
   },
   "per_vendor": {
     "Abstract House": 73,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 18,
+    "Beards & Daisies": 19,
     "Conservatory Archives": 40,
     "House Plant": 37,
-    "Leaf Envy": 52,
+    "Leaf Envy": 50,
     "Andy okay": 75,
     "Drool Art": 75,
     "Jealous Gallery": 40,
     "The Poster Club": 105,
     "Project Nord": 75,
     "PSTR Studio": 74,
-    "Jonathan Adler UK": 36,
+    "Jonathan Adler UK": 33,
     "Rockett St George": 76,
     "Nkuku": 10
   },
@@ -120,6 +120,21 @@
       "reason": "excluded by keyword 'bundle'"
     },
     {
+      "source": "leaf-envy",
+      "title": "Air Purifying Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "3 Months of Houseplants Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "6 Months of Houseplants Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
       "source": "beards-daisies",
       "title": "A Very Festive Forest Artificial Wreath",
       "reason": "excluded by keyword 'artificial'"
@@ -128,6 +143,11 @@
       "source": "beards-daisies",
       "title": "A Very Scandi Christmas Artificial Wreath",
       "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "A Year of Houseplants Bundle",
+      "reason": "excluded by keyword 'bundle'"
     },
     {
       "source": "beards-daisies",
@@ -257,26 +277,6 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Begonia Maculata",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Bestseller Bundle",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Bird of Paradise",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Bird of Paradise (Flowering)",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Blue Lavender & Pot",
       "reason": "excluded by keyword 'artificial'"
     },
     {

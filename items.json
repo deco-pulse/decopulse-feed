@@ -1522,7 +1522,7 @@
     "id": "olivias-c62ea4eb8d",
     "name": "Caravelle Set of 2 Oil Paintings on Canvas",
     "description": "Liang & Eimil’s stunning set of two artworks feature hand-painted oils on canvas. These bespoke pieces highlight similar abstract silhouettes using a shared palette of grey, titanium white, iridescent gold and noir black. The rich texture of oils and bold combination of colour and masterful quality deliver two striking canvases guaranteed to mesmerise. Display your Liang & Eimil artworks in your…",
-    "price": 756.0,
+    "price": 479.0,
     "priceIsFrom": false,
     "vendor": "Olivia's",
     "sourceURL": "https://olivias.com/products/liang-eimil-oil-paint-on-canvas-a-set-of-2-le635",
@@ -2190,7 +2190,7 @@
     "id": "beards-daisies-0d893fe8e5",
     "name": "African Fig in Self-watering Pot",
     "description": "African Fig - Ficus cyathistipula The African Fig is the fig family's easygoing cousin. Native to tropical Africa, it carries rounded, deep green leaves on upright stems and grows into a handsome indoor tree. It copes with lower light better than most figs, though bright, indirect light will bring the best from it. The sap can upset cats and dogs, so best placed out of reach of curious pets. This…",
-    "price": 72.0,
+    "price": 71.0,
     "priceIsFrom": true,
     "vendor": "Beards & Daisies",
     "sourceURL": "https://beardsanddaisies.co.uk/products/african-fig-self-watering",
@@ -2240,19 +2240,18 @@
     "category": "plants"
   },
   {
-    "id": "beards-daisies-20aed412ee",
-    "name": "Allium Globemaster Bulb",
-    "description": "Allium 'Globemaster' - Allium 'Globemaster' The largest of the ornamental alliums, producing violet globes up to 20cm across on thick, upright stems. A single bulb makes a statement, and the flowers hold for six weeks or more, far longer than most alliums. The seed heads stand well into autumn and can be cut and dried. One bulb is enough to make a statement, or plant groups of 3–5, 25–30cm apart…",
-    "price": 5.99,
-    "priceIsFrom": true,
+    "id": "beards-daisies-3ebb4354fe",
+    "name": "7ft Pre-Lit Christmas Tree",
+    "description": "A full-size 7ft tree with 833 branch tips, so it has the density of a real fir without a single needle to sweep up afterwards. 120 warm white LED lights are already threaded through the branches, so it arrives ready to decorate rather than ready to untangle. At this height it's a proper statement tree - the kind that wants a bit of floor space and a generous run of baubles to do it justice.",
+    "price": 100.0,
+    "priceIsFrom": false,
     "vendor": "Beards & Daisies",
-    "sourceURL": "https://beardsanddaisies.co.uk/products/allium-globemaster-bulb",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Globemaster_2_bc2af284-96d0-49dd-ae7e-e873372573bc.jpg?v=1790161888&width=900",
+    "sourceURL": "https://beardsanddaisies.co.uk/products/7ft-pre-lit-christmas-tree",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/1187179_Edwards_xmas_tree_LED_green_warm_white_80l_513_tips_H180cm_1.jpg?v=1790245608&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Globemaster_2_bc2af284-96d0-49dd-ae7e-e873372573bc.jpg?v=1790161888&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/TP688_Allium_Globemaster_998ea51f-f18d-4d42-8eab-0d99578b3d44.jpg?v=1790162186&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/allium-globemaster-bulb_98da172e-f497-4b88-87fc-dc83d1f74298.png?v=1790162567&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Packaging_shot_lounge_5a2b9b89-9b96-4859-a008-7a5589ad8d8f.jpg?v=1790162858&width=900"
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/1187179_Edwards_xmas_tree_LED_green_warm_white_80l_513_tips_H180cm_1.jpg?v=1790245608&width=900",
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/1187179_Edwards_xmas_tree_LED_green_warm_white_80l_513_tips_H180cm_2.jpg?v=1790245608&width=900",
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Packaging_shot_lounge_f0c0e470-375f-45d3-8d22-512dfe846837.jpg?v=1773423551&width=900"
     ],
     "category": "plants"
   },
@@ -2296,7 +2295,7 @@
     "id": "beards-daisies-6f2a687d05",
     "name": "Anemone De Caen Bulbs",
     "description": "Anemone De Caen - Anemone coronaria Single poppy-shaped flowers in red, blue, pink and white, each with a black centre ringed by a fringe of dark stamens. They flower over a long stretch and cut well, producing more stems the more you take. The corms are hard and shrivelled on arrival, which is normal. Soak the corms for a few hours, then plant 10–15 in a 30cm pot, or 8–10cm apart in a sunny bed…",
-    "price": 4.99,
+    "price": 2.99,
     "priceIsFrom": true,
     "vendor": "Beards & Daisies",
     "sourceURL": "https://beardsanddaisies.co.uk/products/anemone-de-caen-bulbs",
@@ -2389,6 +2388,22 @@
       "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Maliki_Bronze_metal_pot_-_small_5e272ec8-9c58-4cd3-9254-e0c80ecf3e4f.jpg?v=1763647055&width=900",
       "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Maliki_bronze_family_medium_09764e5a-dd51-4d67-ad52-299e9df5062c.jpg?v=1763555077&width=900",
       "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Maliki_bronze_family_closeup_47027af0-dd85-4e83-841c-d4c975620167.jpg?v=1763555077&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "beards-daisies-b356ab0efd",
+    "name": "6ft Pre-Lit Christmas Tree",
+    "description": "A full-size 6ft tree with 513 branch tips, so it has the density of a real fir without a single needle to sweep up afterwards. 80 warm white LED lights are already threaded through the branches, so it arrives ready to decorate rather than ready to untangle. A slightly smaller size than our 7ft tree, but still tall enough to be the main event in most living rooms.",
+    "price": 65.0,
+    "priceIsFrom": false,
+    "vendor": "Beards & Daisies",
+    "sourceURL": "https://beardsanddaisies.co.uk/products/6ft-pre-lit-christmas-tree",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/1187180_Edwards_xmas_tree_LED_green_warm_white_120l_833_tips_H210cm_1.jpg?v=1790245608&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/1187180_Edwards_xmas_tree_LED_green_warm_white_120l_833_tips_H210cm_1.jpg?v=1790245608&width=900",
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/1187180_Edwards_xmas_tree_LED_green_warm_white_120l_833_tips_H210cm_2.jpg?v=1790245609&width=900",
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Packaging_shot_lounge_f0c0e470-375f-45d3-8d22-512dfe846837.jpg?v=1773423551&width=900"
     ],
     "category": "plants"
   },
@@ -4169,6 +4184,21 @@
     "category": "plants"
   },
   {
+    "id": "leaf-envy-4f9f27a5b3",
+    "name": "Two Stem Fiddle-Leaf Fig",
+    "description": "Fiddle-Leaf Fig - Ficus Lyrata Bring the timeless beauty of the Fiddle Leaf Fig into your space. With its iconic, fiddle-shaped leaves, this houseplant is a true showstopper. Native to the rainforests of western and central Africa, its large green leaves make a bold statement, perfect for brightening up empty or neglected corners. Though the Fiddle Leaf Fig does require a bit of care to stay…",
+    "price": 80.0,
+    "priceIsFrom": false,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/two-stem-fiddle-leaf-fig",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/FiddleLeafFigDoubleStem-278.jpg?v=1751964179&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/FiddleLeafFigDoubleStem-278.jpg?v=1751964179&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/FiddleLeafFigDoubleStem-278_3ab51f6f-ac43-4cc3-a5f2-886e377f78e2.jpg?v=1751964184&width=900"
+    ],
+    "category": "plants"
+  },
+  {
     "id": "leaf-envy-6070956d77",
     "name": "String of Hearts",
     "description": "String of Hearts - Ceropegia Woodii This charming houseplant features delicate, heart-shaped leaves, which is how it earned its lovely name! As a trailing vine, it produces long, graceful strands that add a touch of elegance to any space. Native to South Africa, Swaziland, and Zimbabwe, it’s a low-maintenance choice perfect for beginner plant parents. Decorative pot not included.",
@@ -4218,31 +4248,19 @@
     "category": "plants"
   },
   {
-    "id": "leaf-envy-7a5320b873",
-    "name": "Pineapple Plant",
-    "description": "Ananas - Pineapple Plant This is a fun houseplant with lovely lush green spiky leaves and a pineapple nestling in the middle! A real talking point. Tempted to take nibble? You could but a tropically grown fruit will be much sweeter! Part of the Bromeliad family, they are native to Brazil but now seen growing in tropical regions across the globe where they are cultivated for their delicious fruit…",
-    "price": 30.4,
+    "id": "leaf-envy-7e86f04abf",
+    "name": "Swiss Cheese Plant & Pot",
+    "description": "The Swiss Cheese Plant is one of the most iconic houseplants of all time — its dramatic, perforated leaves so distinctive that they’ve become a staple in artwork, textiles, and interior design. With its bold, sculptural foliage and lush tropical presence, it brings an instant touch of greenery and modern elegance to any room. Native to the warm, humid rainforests of southern Mexico and Panama…",
+    "price": 50.4,
     "priceIsFrom": false,
     "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/pineapple-plant",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/AnanasPineapplePlant-128.jpg?v=1751960869&width=900",
+    "sourceURL": "https://leafenvy.co.uk/products/swiss-cheese-plant-pot",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesegranitecapri.png?v=1764088558&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/AnanasPineapplePlant-128.jpg?v=1751960869&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/AnanasPineapplePlant-128_11d7647a-d738-4323-bf4b-12297cca737f.jpg?v=1751960878&width=900"
-    ],
-    "category": "plants"
-  },
-  {
-    "id": "leaf-envy-7b82f66e90",
-    "name": "Calathea Makoyana",
-    "description": "Why you’ll love it Calathea Makoyana, often called the Peacock Plant, is a striking, pet-friendly houseplant known for its detailed, patterned leaves. It’s easy to live with when given a gentle routine and prefers softer, indirect light, making it a great choice for creating interest in calmer spaces. Its layered green markings and deep purple undersides add colour without overwhelming a room…",
-    "price": 16.0,
-    "priceIsFrom": false,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/calathea-makoyana-1",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Calathea_Makoyana_Light.jpg?v=1766963136&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Calathea_Makoyana_Light.jpg?v=1766963136&width=900"
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesegranitecapri.png?v=1764088558&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Plant_and_pot_masterArtboard133-Copy.jpg?v=1764088575&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesecollgreycapri.png?v=1764088575&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesegreencapri.png?v=1764088575&width=900"
     ],
     "category": "plants"
   },
@@ -4403,23 +4421,6 @@
     "category": "plants"
   },
   {
-    "id": "leaf-envy-b17463cdf2",
-    "name": "Kentia Palm & Pot",
-    "description": "Graceful, timeless, and effortlessly sophisticated, the Kentia Palm is one of those rare houseplants that elevate any interior with ease. Its fresh green fronds gently arch outward, creating a soft, airy silhouette that instantly brings a sense of calm to your space. Remarkably tolerant of lower light conditions, it’s a beautiful choice for rooms that don’t receive strong direct sun - perfect for…",
-    "price": 81.6,
-    "priceIsFrom": false,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/kentia-palm-pot",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W19-lightgreen.jpg?v=1764087897&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W19-lightgreen.jpg?v=1764087897&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W19-closeup.jpg?v=1764088291&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W19-coolgrey.jpg?v=1764088291&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W19-granite.jpg?v=1764088291&width=900"
-    ],
-    "category": "plants"
-  },
-  {
     "id": "leaf-envy-b6d64784a8",
     "name": "African fig",
     "description": "Why you’ll love it African Fig, Ficus cyathistipula, is an easy-going houseplant that brings structure and calm greenery to your space. It’s low maintenance, tolerant of lower light, and suits a simple care routine, making it a great option for darker rooms or busy homes. Its deep green, oval leaves and upright growth give it a refined, understated look. Good to know This ficus is naturally…",
@@ -4467,24 +4468,6 @@
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PeaceLilyBelliniLilac-132_25590b4c-7ba7-4d71-8b07-546c44e781e1.jpg?v=1751966432&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PeaceLilyBelliniLilac-132.jpg?v=1751966431&width=900"
-    ],
-    "category": "plants"
-  },
-  {
-    "id": "leaf-envy-c847e8fd40",
-    "name": "Philodendron Pedatum",
-    "description": "Philodendron Pedatum Meet the jungle-lover your home’s been waiting for. The Philodendron pedatum is a botanical showstopper with striking, deeply lobed leaves that only get more dramatic as it matures. It's a climbing variety, so it'll happily make itself at home on its moss pole. Native to South America, this beauty brings bold, tropical vibes while staying low-maintenance - just how we like…",
-    "price": 96.0,
-    "priceIsFrom": true,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/philodendron-pedatum",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Artboard2_a109aa00-036a-45da-abf1-b759d357183a.jpg?v=1752766489&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Artboard2_a109aa00-036a-45da-abf1-b759d357183a.jpg?v=1752766489&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum120-003.jpg?v=1752766489&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum120-003_ff15bb3c-ab4f-4817-8825-5a492e42fb7b.jpg?v=1752766489&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum160-003.jpg?v=1752766489&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum160-003_39e873d4-9ca5-4e70-a063-d3d967f539a6.jpg?v=1752766489&width=900"
     ],
     "category": "plants"
   },
@@ -9444,9 +9427,9 @@
     "priceIsFrom": true,
     "vendor": "The Poster Club",
     "sourceURL": "https://theposterclub.com/products/sofia-lind-meet-me-at-jaures",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Sofia_Lind_Meet_Me_at_Jaures_Frame_Oak_Low_Res.jpg?v=1779266890&width=900",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Sofia_Lind_Meet_Me_at_Jaures_Frame_Oak_Low_Res_qfzoyf.jpg?v=1793901101&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Sofia_Lind_Meet_Me_at_Jaures_Frame_Oak_Low_Res.jpg?v=1779266890&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Sofia_Lind_Meet_Me_at_Jaures_Frame_Oak_Low_Res_qfzoyf.jpg?v=1793901101&width=900",
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/XL_prints_Sofia_Lind.jpg?v=1779266890&width=900",
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Sofia_Lind_Meet_Me_At_Jaures_Lifestyle_3_Low_Res.jpg?v=1779266890&width=900",
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Sofia_Lind_Meet_Me_At_Jaures_Lifestyle_03_Low_Res.jpg?v=1779266890&width=900",
@@ -9610,7 +9593,7 @@
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Ana_Frois_Sketch_of_Flowers_02_Lifestyle_Low_Res-1006x1006.jpg?v=1780661280&width=900",
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Ana_Frois_Sketch_of_Flowers_02_closeup-1006x1006.jpg?v=1780661280&width=900",
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Ana_Frois_Sketch_of_Flowers_02_Frame_Oak_Low_Res-1006x1006.jpg?v=1780661280&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Ana_Frois_Sketch_of_Flowers_02_Product_Low_Res.jpg?v=1791271252&width=900"
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Ana_Frois_Sketch_of_Flowers_02_Product_Low_Res.jpg?v=1793898341&width=900"
     ],
     "category": "posters"
   },
@@ -12545,24 +12528,6 @@
     "category": "sculptures"
   },
   {
-    "id": "jonathan-adler-65d87acfa9",
-    "name": "Giant Brass Orb",
-    "description": "Organic Futurism. The Giant Brass Orb began its journey as a commanding ceramic sculpture, but JA realized the sinuous lines and smooth surface would look most intriguing in glossy, polished brass. The dynamic form can be displayed on multiple sides. Let it rule your cocktail table, place it on a pedestal, or be bold and plop the 54-pound sculpture in a corner for an avant-garde vibe.",
-    "price": 1987.0,
-    "priceIsFrom": false,
-    "vendor": "Jonathan Adler UK",
-    "sourceURL": "https://uk.jonathanadler.com/products/giant-brass-orb",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/giant_brass_orb_a_67352df0-55eb-44a1-847e-c96eb2b3dc50.jpg?v=1757977881&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/giant_brass_orb_a_67352df0-55eb-44a1-847e-c96eb2b3dc50.jpg?v=1757977881&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/Brass_Objet_Holiday23_6875cf6d-6462-46b8-bbeb-4ad26bcf107a.jpg?v=1757977881&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/Web_JA_Spring17_Rutledge_Sofas_6bee7cba-f9c1-40bd-809b-f72ede0aa9e7.jpg?v=1757977882&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/op_art_bar_spring_713464de-4074-4731-8659-db7c1fe8b76c.jpg?v=1757977881&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/Web_JA_Spring17_Giant_Brass_Orb.jpg?v=1757977881&width=900"
-    ],
-    "category": "sculptures"
-  },
-  {
     "id": "jonathan-adler-6c68ddd482",
     "name": "Brass Flowers Bouquet",
     "description": "Boomin' Blooms. Flowers are fleeting, but brass petals are forever. A seasoned vase dresser, Jonathan has cycled through billions of flower alternatives, feathers included. His latest obsession? Brass flowers. In the style of an all white bouquet built from different buds, each of our seven brass blooms is unique and uniquely cohesive as a perfectly arranged bouquet. Fab in a foyer, they boldly…",
@@ -12831,24 +12796,6 @@
     "category": "sculptures"
   },
   {
-    "id": "jonathan-adler-e170f1b018",
-    "name": "Reform Brass Art",
-    "description": "Organic Modernism. Meet our new brass Reform Art. Polished brass bas-reliefs inspired by our signature Reform pattern and made from ceramic models crafted in our Soho pottery studio. Each piece floats in an ebonized and wire-brushed mahogany shadow box. Available in three sizes.",
-    "price": 495.0,
-    "priceIsFrom": true,
-    "vendor": "Jonathan Adler UK",
-    "sourceURL": "https://uk.jonathanadler.com/products/reform-brass-art",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/reform_small_brass_art_a.jpg?v=1757549240&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/reform_small_brass_art_a.jpg?v=1757549240&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/FA24_art_reform_brass_art_trip_6eef683f-45e1-41de-9dee-6d9c7c4c2a18.jpg?v=1757549240&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/FA24_styled_console_coliseum_saturn_lounge.jpg?v=1757549239&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/FA24_living_room_aspen_daybed_2_c9597b26-7b9e-4196-94ba-901889823615.jpg?v=1757549239&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/HO24_living_room_greenwich_sofa_vicenza_claret_c3dd0fb5-07ed-413a-a8a7-b4b33f638343.jpg?v=1757549239&width=900"
-    ],
-    "category": "sculptures"
-  },
-  {
     "id": "jonathan-adler-e4f9c8265a",
     "name": "Menagerie Shark Sculpture",
     "description": "Animal Kingdom. Our quietly welcoming stoneware vessels and sculptures merge elemental forms with subtle layers of pattern and decoration. Details are elevated by a soft satin matte finish. One adds a touch of couture craft to your console, or group the collection to give your shelf or mantel some modern menagerie magic.",
@@ -12879,23 +12826,6 @@
       "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/FA22_ether-sofa_goldfinger-chair_bond-etegere_b_68eaf6e5-3ba0-467b-b44d-a64fa10fff61.jpg?v=1743550894&width=900",
       "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/SP21_Acrylic_Collection_a_3fc9a199-801b-42fd-8305-63895c5a7e47.jpg?v=1743550894&width=900",
       "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/Web_JA_Spring17_Giant_Acrylic_Sculptures_Group.jpg?v=1743550894&width=900"
-    ],
-    "category": "sculptures"
-  },
-  {
-    "id": "jonathan-adler-ed84346ddc",
-    "name": "Cabana Obelisk",
-    "description": "Nouveau Nautical. A pared down form crafted from solid, hand-poured opaque acrylic in bold and breezy blue and white stripes. Our Cabana Obelisk is a decorator’s dream—a little poppy, a little nouveau nautical, and very versatile. Fab on a mantel, shelf, or cocktail table. Hand-polished for a luminous shine.",
-    "price": 147.0,
-    "priceIsFrom": false,
-    "vendor": "Jonathan Adler UK",
-    "sourceURL": "https://uk.jonathanadler.com/products/cabana-obelisk",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/cabana_obelisk_a.jpg?v=1757548254&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/cabana_obelisk_a.jpg?v=1757548254&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/FA24_cabana_collection_styled.jpg?v=1757548254&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/HO24_gifts_for_200ish_t2_ef65bbcd-4cd8-4c61-ae92-25cdfe1fde2e.jpg?v=1757548254&width=900",
-      "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/cabana_obelisk_b_695bbd41-4c16-4c2a-80ba-ff67d100150c.jpg?v=1757548254&width=900"
     ],
     "category": "sculptures"
   },
@@ -12949,6 +12879,24 @@
       "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/SP22_wright_sofa_scalinatella_cocktail-table_b_d4ac123d-6993-4def-bef8-f71897143af5.jpg?v=1757547359&width=900",
       "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/FA22_sunset_sectional_jacques_round-cocktail-table_2d207bde-3ada-4f81-9a01-270c2e9a6a51.jpg?v=1757547359&width=900",
       "https://cdn.shopify.com/s/files/1/0259/9475/6155/files/HO22_wright-sofa_bond_round-cocktail-table_fc4ec387-8186-458e-9690-48b139d7a705.jpg?v=1757547359&width=900"
+    ],
+    "category": "sculptures"
+  },
+  {
+    "id": "rockett-st-george-02563f90aa",
+    "name": "Large Rustic Patina Glass Pumpkin",
+    "description": "Bring a touch of autumnal magic to your Halloween homeware with our Large Rustic Patina Glass Pumpkin. With its gorgeous aged finish, rich bronze tones and wonderfully rustic texture, this statement-making ornament is made for cosy autumn décor styling. And the best bit? No two pumpkins are the same, so yours will have its very own unique patina and character. Pop it on a coffee table…",
+    "price": 27.5,
+    "priceIsFrom": false,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/large-rustic-patina-glass-pumpkin",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Rustic-Patina-Glass-Pumpkin-lores-1_1.jpg?v=1788360711&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Rustic-Patina-Glass-Pumpkin-lores-1_1.jpg?v=1788360711&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Rustic-Patina-Glass-Pumpkin-lores-2.jpg?v=1788360711&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Rustic-Patina-Glass-Pumpkin-lores-3.jpg?v=1788360711&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Rustic-Patina-Glass-Pumpkin-lores-4.jpg?v=1788360711&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Rustic-Patina-Glass-Pumpkin-lores-5.jpg?v=1788360738&width=900"
     ],
     "category": "sculptures"
   },
@@ -13095,20 +13043,19 @@
     "category": "sculptures"
   },
   {
-    "id": "rockett-st-george-5307d68988",
-    "name": "Natural King Skull Ornament",
-    "description": "About The Natural King Skull Ornament The Natural King Skull Ornament is an absolutely magnificent display piece featuring a skull on a stand with an intricately carved headdress full of floral details, crosses and sparkling gems. Adding instant character to your interior, this adornment will bring a striking edge to any corner in style. This Unusual Ornament has been beautifully handcrafted…",
-    "price": 145.0,
+    "id": "rockett-st-george-4589f6077a",
+    "name": "Small Amber Glass Pumpkin",
+    "description": "Get ready for pumpkin season with this adorable Small Amber Glass Pumpkin. With its warm amber hue, glossy glass finish and cute curled stem, it’s the perfect little piece of pumpkin home décor and ornaments for bringing those cosy autumn vibes into your home. Pop it on a shelf, mantelpiece, coffee table or sideboard and let this sweet seasonal decoration do its thing. Small, charming and…",
+    "price": 18.0,
     "priceIsFrom": false,
     "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/natural-king-skull-ornament",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Natural-King-Skull-Ornament-halloween-2025-lowres.jpg?v=1756723225&width=900",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/small-amber-glass-pumpkin",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Amber-Pumpkin-With-Gold-Small-lores-1_1.jpg?v=1788361402&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Natural-King-Skull-Ornament-halloween-2025-lowres.jpg?v=1756723225&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-king-skull-ornament-lores.jpg?v=1756723225&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-king-skull-ornament-lores-2.jpg?v=1756723225&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-king-skull-ornament-lores-3.jpg?v=1756723225&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-king-skull-ornament-lores-4.jpg?v=1756723225&width=900"
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Amber-Pumpkin-With-Gold-Small-lores-1_1.jpg?v=1788361402&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Rustic-Patina-Glass-Pumpkin-lores-2_e03ef87f-51ae-4479-af3e-010a3570f471.jpg?v=1788361402&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Amber-Pumpkin-With-Gold-Small-lores-3.jpg?v=1788361402&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Amber-Pumpkin-With-Gold-Small-lores-4.jpg?v=1788361402&width=900"
     ],
     "category": "sculptures"
   },
@@ -13411,24 +13358,6 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Snail-Ornament-lores-3.jpg?v=1788866637&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Snail-Ornament-lores-4.jpg?v=1788866637&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Snail-Ornament-lores-5.jpg?v=1788866637&width=900"
-    ],
-    "category": "sculptures"
-  },
-  {
-    "id": "rockett-st-george-bc1e3cd982",
-    "name": "Seventies Swirl Orange Glass Decanter",
-    "description": "Get ready to pour yourself a little bit of retro fabulousness! This large decanter is a seriously striking statement piece, with a bold orange hue, mesmerising swirl effect and an oversized ball topper that takes the drama of stylish glassware to the next level. Perfect for bringing those fabulous 1970s vibes to your home, this gorgeous decanter looks just as good on display with your other glass…",
-    "price": 65.0,
-    "priceIsFrom": false,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/seventies-swirl-orange-glass-decanter",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Seventies-Swirl-Orange-Glass-Decanter-lores-1.jpg?v=1788427556&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Seventies-Swirl-Orange-Glass-Decanter-lores-1.jpg?v=1788427556&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Seventies-Swirl-Orange-Glass-Decanter-lores-2.jpg?v=1788427556&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Milagro-Hearts-Glass-Dome-lores-3_1_3feefaf8-b15a-4211-be5f-b1293204d753.jpg?v=1788427187&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Seventies-Swirl-Orange-Glass-Decanter-lores-3.jpg?v=1788427556&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Seventies-Swirl-Orange-Glass-Decanter-lores-5.jpg?v=1788427556&width=900"
     ],
     "category": "sculptures"
   },
@@ -13898,7 +13827,7 @@
     "id": "olivias-2a1b3b91fa",
     "name": "Yardley Convex Mirror in Bronze - 60x60cm",
     "description": "Bring a unique touch to your space with this convex mirror featuring a simple bronze frame. The fresh and modern design, combined with the curved mirror surface, adds an intriguing element to your interior. Ideal for enhancing living rooms, bedrooms, or hallways, it offers both functionality and a stylish accent. The convex mirror provides interesting reflections, adding depth and character to…",
-    "price": 105.0,
+    "price": 65.25,
     "priceIsFrom": false,
     "vendor": "Olivia's",
     "sourceURL": "https://olivias.com/products/gallery-interiors-yardley-convex-mirror-in-bronze-60x60cm",
@@ -13984,7 +13913,7 @@
     "id": "olivias-4ec4b71538",
     "name": "Elena Round Mirror 120x120cm - Gold",
     "description": "Contemporary Round statement mirror with sectional boarders sunk into a wooden frame. Constructed from high quality raw materials here in the UK. Finished in a sumptuous Gold leaf frame which has a stunning profile on the inner and outer of the mirror. Beautifully crisp high quality reflective mirror that has wall mounting hardware attached to the back ready for hanging. The frame itself has a…",
-    "price": 564.0,
+    "price": 479.0,
     "priceIsFrom": false,
     "vendor": "Olivia's",
     "sourceURL": "https://olivias.com/products/olivias-elena-round-mirror-in-gold-120x120cm",
@@ -14086,7 +14015,7 @@
     "id": "olivias-7fc9434832",
     "name": "Elena Round Mirror 80x80cm - Gold",
     "description": "Contemporary Round statement mirror with sectional boarders sunk into a wooden frame. Constructed from high quality raw materials here in the UK. Finished in a sumptious Gold leaf frame which has a stunning profile on the inner and outer of the mirror. Beautifully crisp high quality reflective mirror that has wall mounting hardware attached to the back ready for hanging. The frame itself has a…",
-    "price": 391.0,
+    "price": 332.0,
     "priceIsFrom": false,
     "vendor": "Olivia's",
     "sourceURL": "https://olivias.com/products/olivias-elena-round-mirror-in-gold-80x80cm",
@@ -14137,7 +14066,7 @@
     "id": "olivias-b8b2a7c40c",
     "name": "Tuvalu Round Wall Mirror - Gold",
     "description": "This mirror is hand crafted and made to order for you. The Tuvalu Gold Wall Mirror from Olivia’s is a beautiful, delicate round wall mirror finished in a gold leaf frame. Measuring 90cm x 90cm, this perfect circle mirror will bring style and character into your home. This mirror can hang on any wall space and light up dark spaces by reflecting the light. Ideal for hallways, bedrooms, living areas…",
-    "price": 311.0,
+    "price": 264.0,
     "priceIsFrom": false,
     "vendor": "Olivia's",
     "sourceURL": "https://olivias.com/products/olivias-tuvalu-round-wall-mirror-gold",
@@ -14203,7 +14132,7 @@
     "id": "olivias-d7398009fc",
     "name": "Cora Round Wall Mirror 70cm - Gold",
     "description": "Simple yet sophisticated round wall mirror. Looks especially great above a console. Available in a selection of three frame colour finishes to best suit your interior. The craftsmanship is clear to see with it's simple and sophisticated quality of finish. Only the finest quality raw materials have been used to construct this beautifully delicate looking wall mirror. It's simple design allows this…",
-    "price": 150.0,
+    "price": 128.0,
     "priceIsFrom": false,
     "vendor": "Olivia's",
     "sourceURL": "https://olivias.com/products/olivias-cora-round-wall-mirror-in-gold-70cm",
@@ -14235,7 +14164,7 @@
     "id": "olivias-ebfd03388d",
     "name": "Cora Round Wall Mirror 50cm - Gold",
     "description": "Simple yet sophisticated round wall mirror. Looks especially great above a console. Available in a selection of three frame colour finishes to best suit your interior. The craftsmanship is clear to see with it's simple and sophisticated quality of finish. Only the finest quality raw materials have been used to construct this beautifully delicate looking wall mirror. It's simple design allows this…",
-    "price": 126.0,
+    "price": 107.0,
     "priceIsFrom": false,
     "vendor": "Olivia's",
     "sourceURL": "https://olivias.com/products/olivias-cora-round-wall-mirror-in-gold-50cm",
@@ -14250,7 +14179,7 @@
     "id": "poster-club-1a1f556fe4",
     "name": "Centering",
     "description": "Handcrafted in Denmark by Dominka Kamanova, Centering is formed in stoneware with a hand-painted pattern. The spiral unfolds in continuous motion, anchored at its core as the form expands in a steady, measured rhythm. The contrast between dark and light tones introduces a quiet interplay across the surface. Each piece is shaped by hand, allowing subtle variations to emerge within the repetition…",
-    "price": 185.0,
+    "price": 187.0,
     "priceIsFrom": false,
     "vendor": "The Poster Club",
     "sourceURL": "https://theposterclub.com/products/dominika-kamanova-centering",
@@ -14261,24 +14190,6 @@
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Dominika_Kamanova_Centering_Close_Up_Low_Res.jpg?v=1779277234&width=900",
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Dominika_Kamanova_Centering_Backside_Low_Res.jpg?v=1779277234&width=900",
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Dominka_Kamanova_Centering.png?v=1781785227&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
-    "id": "poster-club-1d1cf7ef7a",
-    "name": "Mask No. 281",
-    "description": "One-of-a-kind, handpainted wall object by Park Pardon, handmade in Belgium exclusively for The Poster Club. The mask is limited and numbered. It is sculpted by hand using traditional paper-mâché techniques and celebrates the rich global history of masks as symbols of identity, commemoration, and celebration. Each mask is unique, signed \"P.P.\" by the artists, and meticulously hand-painted…",
-    "price": 187.0,
-    "priceIsFrom": false,
-    "vendor": "The Poster Club",
-    "sourceURL": "https://theposterclub.com/products/park-pardon-mask-no-281",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/WO-PAR-281-99.jpg?v=1790773984&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/WO-PAR-281-99.jpg?v=1790773984&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Park_Pardon_Mask_19_Close_Up.jpg?v=1790773644&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Park_Pardon_Mask_Dustbag.jpg?v=1782812501&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Park_Pardon_Masks_Back.jpg?v=1782812498&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Park_Pardon_Masks_03.jpg?v=1790773640&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -14460,24 +14371,6 @@
     "category": "wall_decorations"
   },
   {
-    "id": "poster-club-522aab6543",
-    "name": "Yachay",
-    "description": "Handcrafted in Argentina by Lucrecia Rey Caro, Yachay embodies the Andean understanding of knowledge as something sacred and lived – a wisdom rooted in the earth, the senses and the shared experience of community. Formed from natural clay, each piece carries the quiet intelligence of the earth itself. The artist’s touch continues an ancestral rhythm: shaping, firing, transforming; gestures…",
-    "price": 110.0,
-    "priceIsFrom": false,
-    "vendor": "The Poster Club",
-    "sourceURL": "https://theposterclub.com/products/lucrecia-rey-caro-yachay",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Yachay_Product_Low_Res.jpg?v=1779277289&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Yachay_Product_Low_Res.jpg?v=1779277289&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Yachay_Close_Up_Low_Res.jpg?v=1779277290&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Yachay_Lifestyle_Low_Res.jpg?v=1779277289&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Group_03_Low_Res.jpg?v=1779277289&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Group_02_Low_Res.jpg?v=1779277290&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
     "id": "poster-club-59b502a629",
     "name": "Yves Etage 01.01",
     "description": "Handcrafted with meticulous attention to detail, the canvas wall relief by Nord Projects offers a captivating interplay of depth and texture. Handmade in Sweden exclusively for The Poster Club, each piece features layered, abstract forms that create a dynamic effect, shifting with light and shadow throughout the day. The monochrome colourway adds a graphic expression. Crafted on a mixed-media…",
@@ -14550,6 +14443,24 @@
     "category": "wall_decorations"
   },
   {
+    "id": "poster-club-64b46acd10",
+    "name": "Happy Sky Blue",
+    "description": "Handcrafted in the Netherlands through a collaboration between Edith Beurskens and Royal Goedewaagen, Happy Ceramics celebrates the simple power of a smile. Defined by its playful expression and soft, rounded form, the piece brings warmth, optimism, and a sense of lightness into any space. Balancing contemporary design with centuries-old ceramic craftsmanship, the object is created to be both…",
+    "price": 137.0,
+    "priceIsFrom": false,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/edith-buerskens-happy-sky-blue",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Edith_Buerskens_Happy_Sky_Blue_Product_Low_Res-scaled.jpg?v=1782812459&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Edith_Buerskens_Happy_Sky_Blue_Product_Low_Res-scaled.jpg?v=1782812459&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Edith_Buerskens_Happy_Skye_Blue_Lifestyle_Low_Res.jpg?v=1782812460&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Edith_Buerskens_Happy_Skye_Blue_Closeup_Low_Res_oisyio.jpg?v=1782812460&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Edith_Buerskens_Happy_Sky_Blue_Backside_Low_Res_8dquvw.jpg?v=1782812460&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/EdithBuerskens_HappySky_Blue.png?v=1782822168&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
     "id": "poster-club-7d14636b5e",
     "name": "Combination No. 02",
     "description": "Please note: This work is made up of three individual reliefs, sold together as one set. Handcrafted in Aarhus by Katrine and Jacob Laoru, this set of three ceramic reliefs is inspired by the sculptural traditions of ancient Greece. Featuring an ear, a mouth and a nose, the work explores universal forms through fragmented detail – inviting the viewer to take part in its composition. Each piece is…",
@@ -14571,7 +14482,7 @@
     "id": "poster-club-88bb40a8a2",
     "name": "Seaweed No. 01",
     "description": "Handcrafted in Denmark by Sille Clara, Seaweed draws inspiration from the quiet movements and organic formations found beneath the surface of the sea. Influenced by daily encounters with the coastline, the work captures the fluid rhythm of marine vegetation as it drifts with unseen currents. Shaped intuitively through an ongoing dialogue between the artist and the material, the form emerges from…",
-    "price": 185.0,
+    "price": 187.0,
     "priceIsFrom": false,
     "vendor": "The Poster Club",
     "sourceURL": "https://theposterclub.com/products/sille-clara-seaweed-no-01",
@@ -14656,6 +14567,24 @@
     "category": "wall_decorations"
   },
   {
+    "id": "poster-club-9eabff56ba",
+    "name": "Euterpe Vase",
+    "description": "Handcrafted in Aarhus, Denmark, by Katrine and Jacob Laoru, the Euterpe Vase Relief draws inspiration from the Nine Greek Muses. In ancient Greece, both the vessel and the Muse were seen as bearers of life, inspiration and creative force. The vase has long been a symbol of womanhood, while the Muses, in Greek mythology, are divine daughters who embody inspiration and serve as the source of art…",
+    "price": 137.0,
+    "priceIsFrom": false,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/laoru-laoru-euterpe-vase",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Euterpe_Vase_Product_Low_Res.jpg?v=1779277340&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Euterpe_Vase_Product_Low_Res.jpg?v=1779277340&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Group_Low_Res.jpg?v=1779277331&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Euterpe_Vase_Lifestyle_Low_Res.jpg?v=1779277340&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Euterpe_Vase_Close_Up_01_Low_Res.jpg?v=1779277340&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Euterpe_Vase_Close_Up_02_Low_Res.jpg?v=1779277340&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
     "id": "poster-club-a0b3ada520",
     "name": "Etienne Etage 01.02",
     "description": "Handcrafted with meticulous attention to detail, the canvas wall relief by Nord Projects offers a captivating interplay of depth and texture. Handmade in Sweden exclusively for The Poster Club, each piece features layered, abstract forms that create a dynamic effect, shifting with light and shadow throughout the day. The monochrome colourway adds a graphic expression. Crafted on a mixed-media…",
@@ -14692,24 +14621,6 @@
     "category": "wall_decorations"
   },
   {
-    "id": "poster-club-d993a8aac0",
-    "name": "Mask No. 283",
-    "description": "One-of-a-kind, handpainted wall object by Park Pardon, handmade in Belgium exclusively for The Poster Club. The mask is limited and numbered. It is sculpted by hand using traditional paper-mâché techniques and celebrates the rich global history of masks as symbols of identity, commemoration, and celebration. Each mask is unique, signed \"P.P.\" by the artists, and meticulously hand-painted…",
-    "price": 187.0,
-    "priceIsFrom": false,
-    "vendor": "The Poster Club",
-    "sourceURL": "https://theposterclub.com/products/park-pardon-mask-no-283",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/WO-PAR-283-99.jpg?v=1790773969&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/WO-PAR-283-99.jpg?v=1790773969&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Park_Pardon_Mask_19_Close_Up.jpg?v=1790773644&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Park_Pardon_Masks_01-1.jpg?v=1782812500&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Park_Pardon_Masks_Back.jpg?v=1782812498&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Park_Pardon_Masks.jpg?v=1790773694&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
     "id": "poster-club-da13d6fa21",
     "name": "Rituel au soleil",
     "description": "Handcrafted in Argentina by artist Lucrecia Rey Caro, Rituel au soleil embodies a celebration of gratitude and our enduring connection to the natural world. Made exclusively for The Poster Club, this canvas wall hanging features bold shapes painted by hand on a neutral cotton canvas. The symbolic composition is complemented by two natural oak rods to create a harmonious blend of artistry and…",
@@ -14724,6 +14635,24 @@
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_01_02.jpg?v=1779277477&width=900",
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_01_03.jpg?v=1779277477&width=900",
       "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Rituel_Au_Soleil.png?v=1781785138&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
+    "id": "poster-club-e645ae8c42",
+    "name": "Thalia Vase",
+    "description": "Handcrafted in Aarhus, Denmark, by Katrine and Jacob Laoru, the Thalia Vase Relief draws inspiration from the Nine Greek Muses. In ancient Greece, both the vessel and the Muse were seen as bearers of life, inspiration and creative force. The vase has long been a symbol of womanhood, while the Muses, in Greek mythology, are divine daughters who embody inspiration and serve as the source of art…",
+    "price": 137.0,
+    "priceIsFrom": false,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/laoru-laoru-thalia-vase",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Thalia_Vase_Product_Low_Res.jpg?v=1779277330&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Thalia_Vase_Product_Low_Res.jpg?v=1779277330&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Thalia_Vase_Lifestyle_Low_Res.jpg?v=1779277331&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Thalia_Vase_Close_Up_01_Low_Res.jpg?v=1779277330&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Thalia_Vase_Close_Up_02_Low_Res.jpg?v=1779277330&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Laoru_Laoru_Thalia_Vase_Close_Up_03_Low_Res.jpg?v=1779277330&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -14785,7 +14714,7 @@
     "id": "rockett-st-george-0ae1ca7c61",
     "name": "What The Fuck Wall Mirror",
     "description": "Meet the What The Fuck Wall Mirror – elegant, unbothered, and saying what we’re all thinking. This gorgeous, antiqued-effect mirror looks like it belongs in a moody old manor… until you clock the unapologetic phrase staring back at you. The contrast is chef’s kiss. Classic, ornate styling paired with bold, funny shock value makes this hallway mirror the ultimate statement piece for people who…",
-    "price": 65.0,
+    "price": 45.5,
     "priceIsFrom": false,
     "vendor": "Rockett St George",
     "sourceURL": "https://rockettstgeorge.co.uk/products/what-the-fuck-wall-mirror",
@@ -15229,7 +15158,7 @@
     "id": "rockett-st-george-c2213ce9a1",
     "name": "Beautiful Red Bird Oval Wall Mirror",
     "description": "Say hello to the Beautiful Red Bird Oval Wall Mirror – a total show-stopper with serious fairy tale energy. This gorgeous, ornate mirror is wrapped in a bold, bright red frame that looks just like twisting forest branches, complete with tiny birds perched sweetly throughout. It’s whimsical, magical and feels like it’s flown straight out of an enchanted woodland. Perfect for adding a splash of…",
-    "price": 115.0,
+    "price": 80.5,
     "priceIsFrom": false,
     "vendor": "Rockett St George",
     "sourceURL": "https://rockettstgeorge.co.uk/products/beautiful-red-bird-oval-wall-mirror",
@@ -15352,7 +15281,7 @@
     "id": "rockett-st-george-e30cc566e4",
     "name": "Pink Ornate Print Frame Mirror",
     "description": "An ornate mirror with a little secret up its sleeve! This Pink Ornate Print Frame Mirror brings the look of an ornate, vintage-style frame without actually taking up the space of one. The beautiful rectangular mirror features a delicate pink ornate frame illustration printed directly onto the glass, creating a subtle pop of colour and a playful twist on classic design. Perfect for adding…",
-    "price": 66.5,
+    "price": 47.5,
     "priceIsFrom": false,
     "vendor": "Rockett St George",
     "sourceURL": "https://rockettstgeorge.co.uk/products/pink-ornate-print-frame-mirror",
